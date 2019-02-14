@@ -1,3 +1,7 @@
+body {
+  background-color: DarkOrchid;
+}
+
 .row {
   max-width: 1000px;
   padding-left: 20px;
